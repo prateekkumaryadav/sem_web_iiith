@@ -4,9 +4,44 @@ from urllib.parse import urljoin, urlparse
 from collections import deque
 import time
 
+def is_relevant_url(url, page_text=""):
+    """
+    Check if a URL is relevant to faculty, academics, courses, or placements.
+    
+    Args:
+        url (str): The URL to check
+        page_text (str): Optional page text content for additional filtering
+    
+    Returns:
+        bool: True if URL is relevant
+    """
+    # Keywords to filter relevant URLs
+    relevant_keywords = [
+        'faculty', 'professor', 'staff',
+        'academic', 'department', 'school',
+        'course', 'curriculum', 'program', 'subject', 'placement', 'internship', 'recruitment', 'career',
+        'people', 'team'
+    ]
+    
+    url_lower = url.lower()
+    
+    # Check if URL contains any relevant keywords
+    for keyword in relevant_keywords:
+        if keyword in url_lower:
+            return True
+    
+    # Also check page content if provided
+    if page_text:
+        page_text_lower = page_text.lower()
+        for keyword in relevant_keywords:
+            if keyword in page_text_lower:
+                return True
+    
+    return False
+
 def scrape_urls(start_url, output_file="urls.txt", max_pages=100):
     """
-    Scrape all URLs accessible from a given URL and save to a text file.
+    Scrape URLs from a website, filtering for faculty, academics, courses, and placements.
     
     Args:
         start_url (str): The starting URL to scrape
@@ -16,7 +51,7 @@ def scrape_urls(start_url, output_file="urls.txt", max_pages=100):
     
     # Set to store unique URLs
     visited_urls = set()
-    all_urls = set()
+    relevant_urls = set()
     
     # Queue for BFS traversal
     to_visit = deque([start_url])
@@ -52,9 +87,13 @@ def scrape_urls(start_url, output_file="urls.txt", max_pages=100):
                 # Parse HTML
                 soup = BeautifulSoup(response.content, 'html.parser')
                 
+                # Get page text for content-based filtering
+                page_text = soup.get_text()
+                
                 # Extract all links
                 for link in soup.find_all('a', href=True):
                     url = link['href']
+                    link_text = link.get_text() if link.get_text() else ""
                     
                     # Convert relative URLs to absolute
                     absolute_url = urljoin(current_url, url)
@@ -67,15 +106,22 @@ def scrape_urls(start_url, output_file="urls.txt", max_pages=100):
                     if parsed_url.query:
                         clean_url += f"?{parsed_url.query}"
                     
+                    # Check if URL is relevant
+                    is_relevant = is_relevant_url(clean_url, link_text)
+                    
                     # Only follow links from the same domain
                     if parsed_url.netloc == base_domain:
-                        all_urls.add(clean_url)
+                        # Add to relevant URLs only if it matches our criteria
+                        if is_relevant:
+                            relevant_urls.add(clean_url)
                         
+                        # Always add to to_visit queue to explore all pages
                         if clean_url not in visited_urls:
                             to_visit.append(clean_url)
                     else:
-                        # Still save external URLs found on the site
-                        all_urls.add(absolute_url)
+                        # Save external relevant URLs found on the site
+                        if is_relevant:
+                            relevant_urls.add(absolute_url)
                 
                 # Small delay to be respectful to the server
                 time.sleep(0.5)
@@ -85,15 +131,15 @@ def scrape_urls(start_url, output_file="urls.txt", max_pages=100):
                 continue
         
         # Write results to file
-        print(f"\nFound {len(all_urls)} unique URLs. Writing to {output_file}...")
+        print(f"\nFound {len(relevant_urls)} relevant URLs. Writing to {output_file}...")
         
         with open(output_file, 'w', encoding='utf-8') as f:
-            for url in sorted(all_urls):
+            for url in sorted(relevant_urls):
                 f.write(url + '\n')
         
         print(f"✓ Successfully saved URLs to {output_file}")
         print(f"Total pages crawled: {page_count}")
-        print(f"Total unique URLs found: {len(all_urls)}")
+        print(f"Total relevant URLs found: {len(relevant_urls)}")
         
     except KeyboardInterrupt:
         print("\nScraping interrupted by user.")
