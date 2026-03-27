@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "source": "IIITH Faculty Scraper",
+    "total_records": 4,
+    "format": "JSON",
+    "description": "Faculty data structured for semantic web conversion (JSON -> RDF -> OWL -> Ontology)"
+  },
+  "faculty": [
+    {
+      "url": "https://www.iiit.ac.in/faculty/aakansha-natani/",
+      "name": "Aakansha Natani",
+      "title": "Assistant Professor",
+      "department": "Human Science Research Centre (HSRC) brings together the social sciences and computer sciences",
+      "email": "aakansha.natani@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Internet and Democracy",
+        "E-Governance",
+        "Data Ownership and Privacy Debates",
+        "Online Civic Engagement and Political Culture",
+        "Digital Divide."
+      ],
+      "qualifications": [
+        "Ph.D",
+        "ba",
+        "ma"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/abhishek-deshpande/",
+      "name": "Abhishek Deshpande",
+      "title": "Assistant Professor",
+      "department": "Center for Computational Natural Sciences and Bioinformatics (CCNSB)conducts integrated teaching and research in basic and applied natural sciences.",
+      "email": "abhishek.deshpande@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Dynamical systems",
+        "Mathematical Biology"
+      ],
+      "qualifications": [
+        "Ph.D",
+        "ba",
+        "ma",
+        "Ma"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/abhishek-kr-singh/",
+      "name": "Abhishek Kr Singh",
+      "title": "Assistant Professor",
+      "department": "Software Engineering Research Center (SERC)",
+      "email": "abhishek.singh@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Formal methods",
+        "Programming languages",
+        "Software engineering",
+        "and Trustworthy AI."
+      ],
+      "qualifications": [
+        "Ph.D",
+        "ba",
+        "ma"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/abhishek-srivastava-2/",
+      "name": "Abhishek Srivastava",
+      "title": "Associate Professor",
+      "department": "Center for VLSI and Embedded Systems Technology (CVEST) builds low cost indigenous technologies through research and development in the areas of VLSI design and Embedded Systems.",
+      "email": "abhishek.srivastava@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "RF/Analog integrated circuits and systems for wireless sensor nodes",
+        "mmWave-5G",
+        "healthcare",
+        "wearable/implantable devices",
+        "and quantum sensing applications."
+      ],
+      "qualifications": [
+        "Ph.D",
+        "ba",
+        "ma"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    }
+  ]
+}

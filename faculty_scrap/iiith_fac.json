@@ -1,0 +1,2600 @@
+{
+  "metadata": {
+    "source": "IIITH Faculty Scraper",
+    "total_records": 117,
+    "format": "JSON",
+    "description": "Faculty data structured for semantic web conversion (JSON -> RDF -> OWL -> Ontology)"
+  },
+  "faculty": [
+    {
+      "url": "https://www.iiit.ac.in/faculty/aakansha-natani/",
+      "name": "Aakansha Natani",
+      "title": "Assistant Professor",
+      "department": "Human Science Research Centre (HSRC) brings together the social sciences and computer sciences",
+      "email": "aakansha.natani@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Internet and Democracy",
+        "E-Governance",
+        "Data Ownership and Privacy Debates",
+        "Online Civic Engagement and Political Culture",
+        "Digital Divide."
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/abhishek-deshpande/",
+      "name": "Abhishek Deshpande",
+      "title": "Assistant Professor",
+      "department": "Center for Computational Natural Sciences and Bioinformatics (CCNSB)conducts integrated teaching and research in basic and applied natural sciences.",
+      "email": "abhishek.deshpande@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Dynamical systems",
+        "Mathematical Biology"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/abhishek-kr-singh/",
+      "name": "Abhishek Kr Singh",
+      "title": "Assistant Professor",
+      "department": "Software Engineering Research Center (SERC)",
+      "email": "abhishek.singh@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Formal methods",
+        "Programming languages",
+        "Software engineering",
+        "and Trustworthy AI."
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/abhishek-srivastava-2/",
+      "name": "Abhishek Srivastava",
+      "title": "Associate Professor",
+      "department": "Center for VLSI and Embedded Systems Technology (CVEST) builds low cost indigenous technologies through research and development in the areas of VLSI design and Embedded Systems.",
+      "email": "abhishek.srivastava@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "RF/Analog integrated circuits and systems for wireless sensor nodes",
+        "mmWave-5G",
+        "healthcare",
+        "wearable/implantable devices",
+        "and quantum sensing applications."
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/aditi-mukherjee/",
+      "name": "Aditi Mukherjee",
+      "title": "",
+      "department": "Language Technologies Research Center (LTRC) conducts research on both basic and applied aspects of language technology.",
+      "email": "aditi.mukherjee@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Sociolinguistics",
+        "Literacy studies"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/aftab-m-hussain/",
+      "name": "Aftab M Hussain",
+      "title": "Associate Professor",
+      "department": "Center for VLSI and Embedded Systems Technology (CVEST) builds low cost indigenous technologies through research and development in the areas of VLSI design and Embedded Systems.",
+      "email": "aftab.hussain@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Flexible and stretchable electronics",
+        "IoT devices",
+        "Smart city research",
+        "LoRaWAN devices"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/angarika-rakshit/",
+      "name": "Angarika Rakshit",
+      "title": "Assistant Professor",
+      "department": "Human Science Research Centre (HSRC) brings together the social sciences and computer sciences",
+      "email": "angarika.rakshit@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Understanding the processes of structural change that is unfolding in India",
+        "and what these changes entail for different social and economic groups of individuals."
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/aniket-alam/",
+      "name": "Aniket Alam",
+      "title": "Associate Professor",
+      "department": "Human Science Research Centre (HSRC) brings together the social sciences and computer sciences",
+      "email": "aniket.alam@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Western Himalayas and Mountain Societies",
+        "History of State and its Institutions",
+        "Historical Methods",
+        "Geography and History"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/anil-kumar-vuppala/",
+      "name": "Anil Kumar Vuppala",
+      "title": "Professor",
+      "department": "Language Technologies Research Center (LTRC) conducts research on both basic and applied aspects of language technology.\r\n\r\nSignal Processing and Communication Research Center (SPCRC) undertakes activ",
+      "email": "anil.vuppala@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Speech recognition",
+        "Speaker recognition",
+        "Language identification",
+        "Speech processing in emotion conditions",
+        "Pathological speech processing and Speech to speech machine translation"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/anil-nelakanti/",
+      "name": "Anil Kumar Nelakanti",
+      "title": "Assistant Professor",
+      "department": "Language Technologies Research Centre (LTRC)",
+      "email": "akn@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Various aspects of algorithm design and machine learning applied mostly to problems in language and speech processing and other related problems"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/anirban-dasgupta/",
+      "name": "Anirban Dasgupta",
+      "title": "Professor",
+      "department": "Human Science Research Centre (HSRC) brings together the social sciences and computer sciences",
+      "email": "anirban.dasgupta@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Development Economics",
+        "Political Economy",
+        "Methodology of Economics and Social Sciences"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/ankit-gangawal/",
+      "name": "Ankit Gangwal",
+      "title": "Assistant Professor",
+      "department": "Center for Security, Theory and Algorithmic Research (CSTAR) undertakes research in information security, theory and algorithms.",
+      "email": "gangwal@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Blockchain",
+        "Cryptography",
+        "Privacy",
+        "and Security"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/anoop-namboodiri/",
+      "name": "Anoop M Namboodiri",
+      "title": "Professor",
+      "department": "Center for Visual Information Technology (CVIT) focuses on basic and advanced research in image processing, computer vision, computer graphics and machine learning.",
+      "email": "anoop@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Pattern recognition",
+        "machine learning",
+        "computer vision",
+        "biometrics"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/antony-thomas/",
+      "name": "Antony Thomas",
+      "title": "Assistant Professor",
+      "department": "Robotics Research Center (RRC)",
+      "email": "antony.thomas@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Robot motion planning",
+        "integrated task and motion planning",
+        "motion planning infeasibility",
+        "collision avoidance planning",
+        "and planning under uncertainty"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/atul-singh-arora/",
+      "name": "Atul Singh Arora",
+      "title": "Assistant Professor",
+      "department": "The Centre for Quantum Science and Technology (CQST)  carries out advanced research on the role of quantum science in computation, information processing, quantum thermodynamics, and on the foundation",
+      "email": "atul.arora@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Topics in quantum cryptography",
+        "complexity and foundations"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/chittaranjan-hens/",
+      "name": "Chittaranjan Hens",
+      "title": "Assistant Professor",
+      "department": "Center for Computational Natural Sciences and Bioinformatics (CCNSB) conducts integrated teaching and research in basic and applied natural sciences.",
+      "email": "chittaranjan.hens@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Network Science",
+        "Nonlinear Dynamics",
+        "and Statistical Physics. Focus area: Epidemics Spreading",
+        "and Epileptic seizure propagation in the human brain."
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/deepak-gangadharan/",
+      "name": "Deepak Gangadharan",
+      "title": "Assistant Professor",
+      "department": "Computer Systems Group(CSG) undertakes research and development in all fundamental aspects of Computing Systems spanning across hardware and software.",
+      "email": "deepak.g@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Scalable design and Performance Analysis of Edge-based IoT systems",
+        "Analysis and Scheduling of Real-Time Distributed Systems/Cyber-Physical Systems",
+        "Hardware/Software Co-Design",
+        "Faultytolerant System Design"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/deva-priyakumar-u/",
+      "name": "Deva Priyakumar U",
+      "title": "Professor",
+      "department": "Center for Computational Natural Sciences and Bioinformatics (CCNSB) conducts integrated teaching and research in basic and applied natural sciences.",
+      "email": "deva@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Computational chemistry to study chemical molecules and reaction mechanisms",
+        "biomolecular simulations to investigate DNA",
+        "RNA",
+        "proteins and protein interactions and computer aided drug design"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/diganta-das/",
+      "name": "Diganta Das",
+      "title": "Assistant Professor",
+      "department": "Center for Computational Natural Sciences and Bioinformatics (CCNSB) conducts integrated teaching and research in basic and applied natural sciences.",
+      "email": "diganta.das@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Theoretical High Energy Physics",
+        "Particle Physics Phenomenology",
+        "Astroparticle Physics & Cosmology: quark and lepton flavor physics",
+        "new physics searches",
+        "dark matter."
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/dipti-m-sharma/",
+      "name": "Dipti Misra Sharma",
+      "title": "Professor",
+      "department": "Language Technologies Research Center (LTRC) conducts research on both basic and applied aspects of language technology.",
+      "email": "dipti@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Machine translation",
+        "linguistics"
+      ],
+      "qualifications": [
+        "ma",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/dr-khaliq-parkar/",
+      "name": "Khaliq Parkar",
+      "title": "Assistant Professor",
+      "department": "Human Science Research Centre (HSRC) brings together the social sciences and computer sciences",
+      "email": "khaliq.parkar@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Urban studies",
+        "smart cities",
+        "public policies of digitalization",
+        "digital tools for governance",
+        "data-driven governance"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/g-s-raghavendra/",
+      "name": "G S Raghavendra",
+      "title": "Assistant Professor",
+      "department": "Center for Visual Information Technology (CVIT)",
+      "email": "raghavendra@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Scientific visualization",
+        "computational topology",
+        "topological data analysis",
+        "and their applications."
+      ],
+      "qualifications": [
+        "Ba",
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/girish-varma/",
+      "name": "Girish Varma",
+      "title": "Assistant Professor",
+      "department": "Center for Security, Theory and Algorithms (CSTAR) does research in information security, theory and algorithms. https://cstar.iiit.ac.in/\r\nMachine Learning Lab (MLL) enables machines, especially comp",
+      "email": "girish.varma@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Complexity Theory",
+        "Combinatorics",
+        "Computer Vision",
+        "Machine Learning"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/gowtham-raghunath-kurri/",
+      "name": "Gowtham Raghunath Kurri",
+      "title": "Assistant Professor",
+      "department": "Signal Processing and Communications Research Center (SPCRC)",
+      "email": "gowtham.kurri@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Information Theory",
+        "Statistical Machine Learning",
+        "and Information-Theoretic Privacy and Security."
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/harikumar-kandath/",
+      "name": "Harikumar Kandath",
+      "title": "Assistant Professor",
+      "department": "Robotics Research Center (RRC) works on research problems and innovative projects that extend the state of the art in robotics.",
+      "email": "harikumar.k@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Aerial robotics",
+        "Control and coordination of multi-robot systems",
+        "Reinforcement learning",
+        "Robust control and state estimation",
+        "Evolving controllers."
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/harjinder-singh/",
+      "name": "Harjinder Singh",
+      "title": "Professor",
+      "department": "Center for Computational Natural Sciences and Bioinformatics (CCNSB) conducts integrated teaching and research in basic and applied natural sciences.",
+      "email": "laltu@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Theoretical",
+        "computational chemistry and biology",
+        "chemical dynamics electronic structure and properties calculations"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/indranil-chakrabarty/",
+      "name": "Indranil Chakrabarty",
+      "title": "Associate Professor",
+      "department": "Centre for Quantum Science and Technology (CQST) carries out advanced research on the role of quantum science in computation, information processing, quantum thermodynamics, and on the foundations of ",
+      "email": "indranil.chakrabarty@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Quantum Information Theory: Quantum Communication",
+        "Quantum Networks",
+        "Quantum Correlations. Quantum Cryptography: Quantum Secret Sharing"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/isha-dubey/",
+      "name": "Awards & Achievements",
+      "title": "Assistant Professor",
+      "department": "Human Science Research Centre (HSRC) brings together the social sciences and computer sciences",
+      "email": "isha.dubey@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Memory studies",
+        "history of modern and contemporary South Asia",
+        "Partition studies",
+        "Bangladesh studies",
+        "histories of migration"
+      ],
+      "qualifications": [
+        "Ba",
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/jawahar-c-v/",
+      "name": "Jawahar C V",
+      "title": "Professor",
+      "department": "Center for Visual Information Technology (CVIT) focuses on basic and advanced research in image processing, computer vision, computer graphics and machine learning",
+      "email": "jawahar@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Computer vision",
+        "machine learning",
+        "multimedia systems"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/jayanthi-sivaswamy/",
+      "name": "Jayanthi Sivaswamy",
+      "title": "Professor",
+      "department": "Signal Processing and Communication Research Center (SPCRC) does active research at theoretical and applied levels. https://spcrc.iiit.ac.in/\r\n\r\nCenter for Visual Information Technology (CVIT) focuses",
+      "email": "jsivaswamy@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Image processing",
+        "medical image analysis and biological vision"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/jofin-george/",
+      "name": "Jofin George",
+      "title": "Assistant Professor",
+      "department": "EERC",
+      "email": "jofin.george@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Statics and Kinematics of Structural Systems",
+        "Structural Assessment",
+        "Structural Health Monitoring"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/k-madhava-krishna/",
+      "name": "K Madhava Krishna",
+      "title": "Professor",
+      "department": "Robotics Research Center (RRC) works on research problems and innovative projects that extend the state of the art in robotics.",
+      "email": "mkrishna@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Robotic Vision",
+        "Self Driving",
+        "Mobile Robotics",
+        "Vision and Language for Robotics",
+        "Autonomous Flight"
+      ],
+      "qualifications": [
+        "ma",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/k-s-rajan/",
+      "name": "Awards & Achievements",
+      "title": "Professor",
+      "department": "Lab for Spatial Informatics (LSI)\nEarthquake Engineering Research Center (EERC)",
+      "email": "rajan@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Application of GIS and remote sensing to sustainable environmental issues"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/kamalakar-karlapalem/",
+      "name": "Kamalakar Karlapalem",
+      "title": "Professor",
+      "department": "Data Sciences and Analytics Center (DSAC) conducts research, facilitates technology transfer, and builds systems in the broad area of data engineering.",
+      "email": "kamal@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Data Systems",
+        "Data Visualization",
+        "Multi Agent Systems and Robotics"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/kannan-srinathan/",
+      "name": "Kannan Srinathan",
+      "title": "Assistant Professor",
+      "department": "Center for Security, Theory and Algorithms (CSTAR) does research in information security, theory and algorithms.",
+      "email": "srinathan@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Cryptography",
+        "security"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/karthik-vaidhyanathan/",
+      "name": "Karthik Vaidhyanathan",
+      "title": "Assistant Professor",
+      "department": "Software Engineering Research Center (SERC) focuses on systematic, disciplined, quantifiable approach to the development, operation, and maintenance of quality software, and the study of these approac",
+      "email": "karthik.vaidhyanathan@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Software Architecture",
+        "Self-adaptive systems",
+        "SE4AI",
+        "AI4SE"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/kavitha-vemuri/",
+      "name": "Kavita Vemuri",
+      "title": "Associate Professor",
+      "department": "Biomedical Research Center (BMRC)",
+      "email": "kvemuri@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Clinical Neuroscience",
+        "Movement Disorders/Sciences",
+        "Sensors"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/khushboo-agarwal/",
+      "name": "Khushboo Agarwal",
+      "title": "Fellow",
+      "department": "Computer Systems Group (CSG)",
+      "email": "khushboo.agarwal@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Stochastic operations research",
+        "primarily at the intersection of stochastic processes",
+        "reinforcement learning",
+        "and (behavioural) game theory"
+      ],
+      "qualifications": [
+        "ma",
+        "ba"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/kishore-kothapalli/",
+      "name": "Kishore Kothapalli",
+      "title": "Professor",
+      "department": "Center for Security, Theory and Algorithms (CSTAR) does research in information security, theory and algorithms.",
+      "email": "kkishore@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Multicore and many core algorithms",
+        "distributed algorithms"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/krishna-reddy-p/",
+      "name": "Krishna Reddy P",
+      "title": "Professor",
+      "department": "Data Sciences and Analytics Center (DSAC) conducts research, facilitates technology transfer, and builds systems in the broad area of data engineering. http://dsac.iiit.ac.in/\r\n\r\nIT for Agricultural a",
+      "email": "pkreddy@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Data mining",
+        "data management",
+        "transaction models",
+        "distributed computing",
+        "performance evaluation"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/kshitij-gajjar/",
+      "name": "Kshitij Gajjar",
+      "title": "Assistant Professor",
+      "department": "Center for Security, Theory and Algorithms (CSTAR) does research in information security, theory and algorithms",
+      "email": "kshitij@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Algorithms",
+        "graph theory",
+        "complexity",
+        "combinatorics"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/kuldeep-ramchandra-kurte/",
+      "name": "Kuldeep Ramchandra Kurte",
+      "title": "Assistant Professor",
+      "department": "Lab for Spatial Informatics (LSI)",
+      "email": "kuldeep.kurte@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "AI/ML range from knowledge representation and reasoning",
+        "reinforcement learning",
+        "deep learning",
+        "and geo-semantics"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/lalitha-vadlamani/",
+      "name": "Lalitha Vadlamani",
+      "title": "Associate Professor",
+      "department": "Signal Processing and Communication Research Center (SPCRC) does active research at theoretical and applied levels.",
+      "email": "lalitha.v@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Coding Theory",
+        "Information Theory",
+        "Signal Processing",
+        "Distributed Storage Systems"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/lini-teresa-thomas/",
+      "name": "Lini Teresa Thomas",
+      "title": "Assistant Professor",
+      "department": "Data Sciences and Analytics Center (DSAC) conducts research, facilitates technology transfer, and builds systems in the broad area of data engineering.",
+      "email": "lini.thomas@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Skylines",
+        "Clustering",
+        "Graph Mining",
+        "Medical Document Mining"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/makarand-tapaswi/",
+      "name": "Makarand Tapaswi",
+      "title": "Assistant Professor",
+      "department": "Center for Visual Information Technology (CVIT) focuses on basic and advanced research in image processing, computer vision, computer graphics and machine learning.",
+      "email": "makarand.tapaswi@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Machine Learning",
+        "Computer Vision",
+        "Natural Language Processing"
+      ],
+      "qualifications": [
+        "ma",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/manish-shrivastava/",
+      "name": "Manish Shrivastava",
+      "title": "Professor",
+      "department": "Language Technologies Research Center (LTRC) conducts research on both basic and applied aspects of language technology. It is the largest academic centre of speech and language technology in South As",
+      "email": "m.shrivastava@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Machine Translation",
+        "NLP for India Languages."
+      ],
+      "qualifications": [
+        "ma",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/marimuthu-krishnan/",
+      "name": "Marimuthu Krishnan",
+      "title": "Assistant Professor",
+      "department": "Center for Computational Natural Sciences and Bioinformatics (CCNSB) conducts integrated teaching and research in basic and applied natural sciences.",
+      "email": "m.krishnan@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Computational molecular biophysics",
+        "computer simulation of interfacial phenomena in nano-biomaterials",
+        "phase behaviour of polymer nanocomposites",
+        "computational physics of ion transport through nanopores and in polymer electrolytes(CCNSB)"
+      ],
+      "qualifications": [
+        "Ba",
+        "ma",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/narayanan-p-j/",
+      "name": "Narayanan P J",
+      "title": "Professor",
+      "department": "Center for Visual Information Technology (CVIT) focuses on basic and advanced research in image processing, computer vision, computer graphics and machine learning.",
+      "email": "pjn@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Computer vision",
+        "graphics"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/naresh-manwani/",
+      "name": "Naresh Manwani",
+      "title": "Associate Professor",
+      "department": "Machine Learning Lab (MLL) enables machines, especially computers to learn from environments and make their own decisions.",
+      "email": "naresh.manwani@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Machine Learning",
+        "Data Mining",
+        "Deep Learning",
+        "Natural Language Processing"
+      ],
+      "qualifications": [
+        "ma",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/nazia-akhtar/",
+      "name": "Nazia akhtar",
+      "title": "Assistant Professor",
+      "department": "Human Science Research Centre (HSRC) brings together the social sciences and computer sciences",
+      "email": "nazia.akhtar@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Literature and History of Hyderabad",
+        "Partition Studies",
+        "women’s writings",
+        "comparative literature"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/nimmi-rangaswamy/",
+      "name": "Nimmi Rangaswamy",
+      "title": "Professor",
+      "department": "Kohli Center on Intelligent Systems (KCIS) established in 2015 with funding from the TCS foundation to give a fillip to research, teaching and entrepreneurship in the broad area of intelligent systems",
+      "email": "nimmi.rangaswamy@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Anthropology and HCI",
+        "Digital Society",
+        "Technology and Development"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/nita-parekh/",
+      "name": "Nita Parekh",
+      "title": "Professor",
+      "department": "Center for Computational Natural Sciences and Bioinformatics (CCNSB) conducts integrated teaching and research in basic and applied natural sciences.",
+      "email": "nita@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Pattern recognition (viz.",
+        "identifying repeats",
+        "genomic islands)",
+        "comparative genomics and data mining",
+        "dynamical systems modeling and graph theory approaches to biological networks"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/p-pravin-kumar-venkat-rao/",
+      "name": "P Pravin Kumar Venkat Rao",
+      "title": "Assistant Professor",
+      "department": "Earthquake Engineering Research Center (EERC) focuses on understanding the crustal structure and earthquake processes and estimation of recurrence interval and other priority areas of research.",
+      "email": "pravin.kumar@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Contemporary and Traditional Masonry Buildings",
+        "Seismic Safety Assessment",
+        "Earthquake-Resistant Design",
+        "Structural Retrofitting",
+        "Composite Materials"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/page/10/",
+      "name": "",
+      "title": "",
+      "department": "",
+      "email": "",
+      "phone": "",
+      "research_areas": [],
+      "qualifications": [
+        "ma",
+        "ba"
+      ],
+      "awards": [],
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/page/2/",
+      "name": "",
+      "title": "",
+      "department": "",
+      "email": "",
+      "phone": "",
+      "research_areas": [],
+      "qualifications": [
+        "ma",
+        "ba"
+      ],
+      "awards": [],
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/page/3/",
+      "name": "",
+      "title": "",
+      "department": "",
+      "email": "",
+      "phone": "",
+      "research_areas": [],
+      "qualifications": [
+        "ma",
+        "ba"
+      ],
+      "awards": [],
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/page/4/",
+      "name": "",
+      "title": "",
+      "department": "",
+      "email": "",
+      "phone": "",
+      "research_areas": [],
+      "qualifications": [
+        "ma",
+        "ba"
+      ],
+      "awards": [],
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/page/5/",
+      "name": "",
+      "title": "",
+      "department": "",
+      "email": "",
+      "phone": "",
+      "research_areas": [],
+      "qualifications": [
+        "ma",
+        "ba"
+      ],
+      "awards": [],
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/page/6/",
+      "name": "",
+      "title": "",
+      "department": "",
+      "email": "",
+      "phone": "",
+      "research_areas": [],
+      "qualifications": [
+        "ma",
+        "ba"
+      ],
+      "awards": [],
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/page/7/",
+      "name": "",
+      "title": "",
+      "department": "",
+      "email": "",
+      "phone": "",
+      "research_areas": [],
+      "qualifications": [
+        "ma",
+        "ba"
+      ],
+      "awards": [],
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/page/8/",
+      "name": "",
+      "title": "",
+      "department": "",
+      "email": "",
+      "phone": "",
+      "research_areas": [],
+      "qualifications": [
+        "ma",
+        "ba"
+      ],
+      "awards": [],
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/page/9/",
+      "name": "",
+      "title": "",
+      "department": "",
+      "email": "",
+      "phone": "",
+      "research_areas": [],
+      "qualifications": [
+        "ma",
+        "ba"
+      ],
+      "awards": [],
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/parameswari-krishnamurthy/",
+      "name": "Parameswari Krishnamurthy",
+      "title": "Assistant Professor",
+      "department": "Language Technologies Research Center (LTRC) conducts research on both basic and applied aspects of language technology.",
+      "email": "param.krishna@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Computational Linguistics& Machine Translation",
+        "Divergence Studies",
+        "Computational Morphology",
+        "Syntactic and Semantic Parsing"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/pawan-kumar/",
+      "name": "Pawan Kumar",
+      "title": "Assistant Professor",
+      "department": "Center for Security, Theory and Algorithms (CSTAR) does research in information security, theory and algorithms.",
+      "email": "pawan.kumar@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Parallel Computing",
+        "Scientific Computing",
+        "Numerical Methods for Machine Learning and Data Mining"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/ponnurangam-kumaraguru/",
+      "name": "Ponnurangam Kumaraguru",
+      "title": "Professor",
+      "department": "Language Technologies Research Center (LTRC) conducts research on both basic and applied aspects of language technology.",
+      "email": "pk.guru@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Responsible AI",
+        "Applied ML",
+        "Applied NLP",
+        "Social Network Analysis"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/prabhakar-bhimalapuram/",
+      "name": "Prabhakar Bhimalapuram",
+      "title": "Assistant Professor",
+      "department": "Center for Computational Natural Sciences and Bioinformatics (CCNSB) conducts integrated teaching and research in basic and applied natural sciences.",
+      "email": "prabhakar.b@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Thermodynamics and statistical mechanics of equilibrium and non equilibrium systems"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/pradeep-kumar-ramancharla/",
+      "name": "Pradeep Kumar Ramancharla",
+      "title": "Professor",
+      "department": "Earthquake Engineering Research Center (EERC) focuses on understanding the crustal structure and earthquake processes and estimation of recurrence interval and other priority areas of research. https:",
+      "email": "ramancharla@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Earthquake engineering and structural dynamics",
+        "analysis and design of RC structures",
+        "numerical simulation of non-engineered buildings",
+        "development of awareness raising tools for earthquake disaster mitigation",
+        "collapse analysis of structures"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/praful-mankar/",
+      "name": "Praful Mankar",
+      "title": "Assistant Professor",
+      "department": "Signal Processing and Communication Research Center (SPCRC) does active research at theoretical and applied levels.",
+      "email": "praful.mankar@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Next-generation wireless networks",
+        "Internet-of-things (IoT)",
+        "Age-of-Information (AoI)",
+        "Stochastic Geometry",
+        "Queueing Theory."
+      ],
+      "qualifications": [
+        "ma",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/prasad-krishnan/",
+      "name": "Prasad Krishnan",
+      "title": "Assistant Professor",
+      "department": "Signal Processing and Communication Research Center (SPCRC) does active research at theoretical and applied levels.",
+      "email": "prasad.krishnan@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Codes for Wireless Communications",
+        "Index Coding",
+        "Coded Caching",
+        "Network Coding",
+        "Codes for DNA Storage.(SPCRC)"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/praveen-paruchuri/",
+      "name": "Praveen Paruchuri",
+      "title": "Professor",
+      "department": "Machine Learning Lab (MLL) enables machines, especially computers to learn from environments and make their own decisions.",
+      "email": "praveen.p@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Artificial Intelligence",
+        "Multi-agent Systems",
+        "Game Theory"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/priyanka-srivastava/",
+      "name": "Priyanka Srivastava",
+      "title": "Associate Professor",
+      "department": "Cognitive Science (CogSci) is the study of how we perceive, act, and reason about and form beliefs about our environment.",
+      "email": "priyanka.srivastava@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Visual and Auditory Perception",
+        "Cognition",
+        "Human Factors",
+        "Spatial Perception and Representation",
+        "and Virtual Reality"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/priyesh-shukla/",
+      "name": "Priyesh Shukla",
+      "title": "Assistant Professor",
+      "department": "Center for VLSI and Embedded Systems Technology (CVEST)",
+      "email": "priyesh.shukla@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Sustainable computing",
+        "Efficient AI processing at edge and cloud",
+        "Compute-in-memory",
+        "RISC-V HW-SW ecosystem",
+        "probabilistic AI systems"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/radhika-krishnan/",
+      "name": "Radhika Krishnan",
+      "title": "Associate Professor",
+      "department": "Human Science Research Centre (HSRC) brings together the social sciences and computer sciences",
+      "email": "radhika.krishnan@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Technology Studies",
+        "Ecology",
+        "Development and Labour"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/radhika-mamidi/",
+      "name": "Radhika Mamidi",
+      "title": "Associate Professor",
+      "department": "Language Technologies Research Center (LTRC) conducts research on both basic and applied aspects of language technology.",
+      "email": "radhika.mamidi@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Computational morphology",
+        "machine translation",
+        "dialog systems",
+        "pragmatics",
+        "humour studies"
+      ],
+      "qualifications": [
+        "ma",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/raghubabu-reddy-y/",
+      "name": "Raghubabu Reddy Y",
+      "title": "Associate Professor",
+      "department": "Software Engineering Research Center (SERC) focuses on systematic, disciplined, quantifiable approach to the development, operation, and maintenance of quality software, and the study of these approac",
+      "email": "raghu.reddy@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Software Engineering",
+        "Human Computer Interaction",
+        "Knowledge Engineering."
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/rajakrishnan-p-rajkumar/",
+      "name": "Rajakrishnan P Rajkumar",
+      "title": "Associate Professor",
+      "department": "Language Technologies Research Center (LTRC) conducts research on both basic and applied aspects of language technology.",
+      "email": "raja@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Computational Linguistics"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/rajeev-sangal-2/",
+      "name": "Rajeev Sangal",
+      "title": "Professor",
+      "department": "Language Technologies Research Center (LTRC)",
+      "email": "sangal@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Natural Language processing",
+        "artificial intelligence",
+        "machine translation",
+        "speech processing."
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/rajorshi-ray/",
+      "name": "Rajorshi Ray",
+      "title": "Assistant Professor",
+      "department": "Human Science Research Centre (HSRC) brings together the social sciences and computer sciences",
+      "email": "rajorshi.ray@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Platform studies",
+        "digital sociology",
+        "economic sociology",
+        "mixed methods"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/rakesh-kiran-chand-thumaty/",
+      "name": "Rakesh Kiran Chand Thumaty",
+      "title": "Associate Professor",
+      "department": "Lab for Spatial Informatics (LSI) deals with the study of how location in space and time characterize or influence an object, event or phenomena is referred to as Spatial or Geospatial Sciences. https",
+      "email": "kiranchand.tr@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Applied Remote Sensing",
+        "Terrestrial Carbon Cycle",
+        "Greenhouse Gas Inventory and upscaling",
+        "Essential Climate Variables (ECVs) in Sustainable Development",
+        "Forestry & Ecology."
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/ramachandra-prasad-p/",
+      "name": "Rama Chandra Prasad P",
+      "title": "Associate Professor",
+      "department": "Lab for Spatial Informatics (LSI) deals with the study of how location in space and time characterize or influence an object, event or phenomena is referred to as Spatial or Geospatial Sciences. https",
+      "email": "rcprasad@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Application of geospatial tools in – forest ecosystem",
+        "island ecology",
+        "climate change",
+        "land use – land cover changes",
+        "integrated water resource management (IWRM) studies"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/raman-saxena/",
+      "name": "Raman Saxena",
+      "title": "Professor",
+      "department": "Software Engineering Research Center (SERC) focuses on systematic, disciplined, quantifiable approach to the development, operation, and maintenance of quality software, and the study of these approac",
+      "email": "raman.saxena@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Human-Centered Design",
+        "HCI",
+        "Interaction Technologies",
+        "Human-Behaviour Research",
+        "Cognitive Ergonomics"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/ramesh-loganathan/",
+      "name": "Ramesh Loganathan",
+      "title": "Professor",
+      "department": "Software Engineering Research Center (SERC) focuses on systematic, disciplined, quantifiable approach to the development, operation, and maintenance of quality software, and the study of these approac",
+      "email": "ramesh.loganathan@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Software Engineering",
+        "Entrepreneurship",
+        "Innovation"
+      ],
+      "qualifications": [
+        "ma",
+        "ba"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/ravi-kiran-sarvadevabhatla/",
+      "name": "Ravi Kiran Sarvadevabhatla",
+      "title": "Associate Professor",
+      "department": "Center for Visual Information Technology (CVIT) focuses on basic and advanced research in image processing, computer vision, computer graphics and machine learning.",
+      "email": "ravi.kiran@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Compter Vision",
+        "Machine Learning",
+        "Virtual Reality",
+        "Robotics",
+        "Affective Computing"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/sachin-chaudhari/",
+      "name": "Sachin Chaudhari",
+      "title": "Associate Professor",
+      "department": "Signal Processing and Communication Research Center (SPCRC) does active research at theoretical and applied levels.",
+      "email": "sachin.chaudhari@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Next-generation wireless communication systems: 5G and Beyond",
+        "Internet of Things",
+        "Cognitive Radios."
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/saikiran-bulusu/",
+      "name": "Saikiran Bulusu",
+      "title": "Assistant Professor",
+      "department": "Signal Processing and Communications Research Center (SPCRC)",
+      "email": "saikiran.bulusu@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Statistical signal processing",
+        "compressed sensing",
+        "optimization",
+        "and machine learning"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/samyadeb-bhattacharya/",
+      "name": "Samyadeb Bhattacharya",
+      "title": "Assistant Professor",
+      "department": "Center for Security, Theory and Algorithms (CSTAR) does research in information security, theory and algorithms.",
+      "email": "samyadeb.b@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Open Quantum dynamics and spin system",
+        "Quantum Thermodynamics"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/sandeep-kumar-shukla/",
+      "name": "Sandeep Kumar Shukla",
+      "title": "Professor",
+      "department": "Cyber MANTHAN Center (CMC) – Center for Security, Theory and Algorithmic Research",
+      "email": "sandeeps@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Cyber Security",
+        "Embedded Systems",
+        "Critical Infrastructures",
+        "Formal Methods",
+        "Embedded Software and Hardware Design"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/santosh-nannuru/",
+      "name": "Santosh Nannuru",
+      "title": "Assistant Professor",
+      "department": "Signal Processing and Communication Research Center (SPCRC) does active research at theoretical and applied levels.",
+      "email": "santosh.nannuru@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Signal processing",
+        "target localization and tracking"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/saroja-t-k/",
+      "name": "Awards & Achievements",
+      "title": "Lecturer",
+      "department": "Awards & Achievements",
+      "email": "saroja.tk@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Indian Classical music with focus on South Indian music"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/saurabh-todariya/",
+      "name": "Saurabh Todariya",
+      "title": "Assistant Professor",
+      "department": "Human Science Research Centre (HSRC) brings together the social sciences and computer sciences",
+      "email": "saurabh.todariya@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Phenomenology",
+        "Hermeneutics",
+        "Kant",
+        "Philosophy of Mind",
+        "Methodology of Social Sciences"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/semparithi-aravindan/",
+      "name": "Semparithi Aravindan",
+      "title": "Associate Professor",
+      "department": "Center for Computational Natural Sciences and Bioinformatics (CCNSB) conducts integrated teaching and research in basic and applied natural sciences.",
+      "email": "semparithi.aravindan@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Energy flow in molecules",
+        "structure and dynamics of molecular clusters"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/shaik-rehana/",
+      "name": "Shaik Rehana",
+      "title": "Associate Professor",
+      "department": "Lab for Spatial Informatics (LSI) deals with the study of how location in space and time characterize or influence an object, event or phenomena. https://lsi.iiit.ac.in/website/",
+      "email": "rehana.s@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Hydrologic Impacts of Climate Change",
+        "Statistical Downscaling",
+        "Uncertainty Modeling",
+        "Water Quality Management",
+        "Reservoir Operation"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/shantanav-chakraborty/",
+      "name": "Shantanav Chakraborty",
+      "title": "Assistant Professor",
+      "department": "Centre for Quantum Science and Technology (CQST) carries out advanced research on the role of quantum science in computation, information processing, quantum thermodynamics, and on the foundations of ",
+      "email": "shchakra@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Quantum Algorithms",
+        "Quantum Computation",
+        "Quantum Walks"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/shatrunjay-rawat/",
+      "name": "Shatrunjay Rawat",
+      "title": "Associate Professor",
+      "department": "Center for Security, Theory and Algorithms (CSTAR) does research in information security, theory and algorithms.",
+      "email": "shatrunjay.rawat@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Computer networks",
+        "information security",
+        "network forensics",
+        "e-governance",
+        "human values"
+      ],
+      "qualifications": [
+        "ma",
+        "ba"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/shubham-singhal/",
+      "name": "Shubham Singhal",
+      "title": "Assistant Professor",
+      "department": "Earthquake Engineering Research Center (EERC) focuses on understanding the crustal structure and earthquake processes and estimation of recurrence interval and other priority areas of research. https:",
+      "email": "shubham.singhal@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Precast Technology",
+        "Masonry Buildings",
+        "Seismic Vulnerability & Retrofitting"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/siddhartha-das/",
+      "name": "Siddhartha Das",
+      "title": "Assistant Professor",
+      "department": "Center for Security, Theory and Algorithms (CSTAR) does research in information security, theory and algorithms.",
+      "email": "das.seed@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Quantum Information Theory"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/sourav-garg/",
+      "name": "Sourav Garg",
+      "title": "Assistant Professor",
+      "department": "Robotics Research Center (RRC)",
+      "email": "sourav.garg@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Embodied Intelligence",
+        "spanning robotics",
+        "computer vision",
+        "and machine learning",
+        "visual place recognition"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/spandan-roy/",
+      "name": "Spandan Roy",
+      "title": "Associate Professor",
+      "department": "Robotics Research Center (RRC) works on research problems and innovative projects that extend the state of the art in robotics.",
+      "email": "spandan.roy@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Adaptive-robust control",
+        "time-delayed control (with artificial delay)",
+        "sliding mode control",
+        "control applications to robotics."
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/subhadip-mitra/",
+      "name": "Subhadip Mitra",
+      "title": "Associate Professor",
+      "department": "Center for Computational Natural Sciences and Bioinformatics (CCNSB) conducts integrated teaching and research in basic and applied natural sciences. http://ccnsb.iiit.ac.in/CCNSB/\r\n\r\nCentre for Quant",
+      "email": "subhadip.mitra@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "High Energy Physics Theory / Phenomenology",
+        "Cosmology"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/sujit-prakash-gujar/",
+      "name": "Sujit Prakash Gujar",
+      "title": "Associate Professor",
+      "department": "Data Sciences and Analytics Center (DSAC) conducts research, facilitates technology transfer, and builds systems in the broad area of data engineering.",
+      "email": "sujit.gujar@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Game Theory",
+        "Mechanism Design",
+        "Machine Learning",
+        "and Cryptography applied to modern web and AI applications (Auctions",
+        "Internet Advertising"
+      ],
+      "qualifications": [
+        "Ba",
+        "Ph.D",
+        "ma",
+        "ba",
+        "Ma"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/sunitha-palissery/",
+      "name": "Sunitha Palissery",
+      "title": "Assistant Professor",
+      "department": "Earthquake Engineering Research Center (EERC) focuses on understanding the crustal structure and earthquake processes and estimation of recurrence interval, and other priority areas of research.",
+      "email": "sunitha.palissery@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Seismic Design of Buildings",
+        "Seismic Nonlinear Behaviour of Buildings"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/suresh-purini/",
+      "name": "Suresh Purini",
+      "title": "Associate Professor",
+      "department": "Computer Systems Group (CSG) undertakes research and development in all fundamental aspects of Computing Systems spanning across hardware and software.",
+      "email": "suresh.purini@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Compilers",
+        "parallel and distributed systems",
+        "virtualization",
+        "cloud computing and complexity theory(CVEST)"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/suryajith-chillara/",
+      "name": "Suryajith Chillara",
+      "title": "Assistant Professor",
+      "department": "Center for Security, Theory and Algorithms (CSTAR) does research in information security, theory and algorithms.",
+      "email": "suryajith.chillara@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Computational Complexity Theory",
+        "and Algorithmic Coding Theory."
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/sushmita-benerji/",
+      "name": "Sushmita Banerji",
+      "title": "Assistant Professor",
+      "department": "Human Science Research Centre (HSRC) brings together the social sciences and computer sciences",
+      "email": "sushmita.banerji@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Indian Cinema",
+        "World Cinema",
+        "Literature Flim Adaptations",
+        "World Literature",
+        "Film and Literary theory"
+      ],
+      "qualifications": [
+        "Ba",
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/tapan-kumar-sau/",
+      "name": "Tapan Kumar Sau",
+      "title": "Professor",
+      "department": "Center for Computational Natural Sciences and Bioinformatics (CCNSB) conducts integrated teaching and research in basic and applied natural sciences.",
+      "email": "tapan.sau@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Nanomaterials: developing inorganic nanomaterials with controlled properties for probing",
+        "sensing",
+        "imaging",
+        "and energy-related applications",
+        "exploring the nature of interactions between nanomaterials and their surroundings(CCNSB)"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/tejas-bodas/",
+      "name": "Tejas Bodas",
+      "title": "Assistant Professor",
+      "department": "Computer Systems Group (CSG) undertakes research and development in all fundamental aspects of Computing Systems spanning across hardware and software.",
+      "email": "tejas.bodas@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Operations research",
+        "Machine learning",
+        "Optimization"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/uttam-singh/",
+      "name": "Uttam Singh",
+      "title": "Assistant Professor",
+      "department": "Centre for Quantum Science and Technology (CQST) carries out advanced research on the role of quantum science in computation, information processing, quantum thermodynamics, and on the foundations of ",
+      "email": "uttam@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Quantum Information Theory and Computation",
+        "Quantum Computational Complexity Theory",
+        "Quantum Thermodynamics",
+        "Quantum Foundations",
+        "Decoherence Theory and the Measurement Problem"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/vasudeva-varma/",
+      "name": "Vasudeva Varma",
+      "title": "Professor",
+      "department": "Language Technologies Research Center (LTRC) conducts research on both basic and applied aspects of language technology.\r\n\r\nSoftware Engineering Research Center (SERC) focuses on systematic, disciplin",
+      "email": "vv@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Information retrieval",
+        "social media analysis",
+        "semantic search",
+        "cloud computing and software engineering"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/venkatesh-choppella/",
+      "name": "Venkatesh Choppella",
+      "title": "Associate Professor",
+      "department": "Software Engineering Research Center (SERC) focuses on systematic, disciplined, quantifiable approach to the development, operation, and maintenance of quality software, and the study of these approac",
+      "email": "venkatesh.choppella@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Programming languages",
+        "S/W architectures",
+        "Formal Methods",
+        "CS education"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/vikrampudi/",
+      "name": "Vikram Pudi",
+      "title": "Professor",
+      "department": "Data Sciences and Analytics Center (DSAC) conducts research, facilitates technology transfer, and builds systems in the broad area of data engineering.",
+      "email": "vikram@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Data mining",
+        "artificial intelligence",
+        "database systems"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/vineet-gandhi/",
+      "name": "Vineet Gandhi",
+      "title": "Associate Professor",
+      "department": "Center for Visual Information Technology (CVIT) focuses on basic and advanced research in image processing, computer vision, computer graphics and machine learning.",
+      "email": "vgandhi@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Computer vision and multimedia",
+        "human detection and tracking",
+        "computational photography and cinematography",
+        "depth reconstruction and applications."
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/vinod-p-k/",
+      "name": "Awards & Achievements",
+      "title": "Associate Professor",
+      "department": "Center for Computational Natural Sciences and Bioinformatics (CCNSB) conducts integrated teaching and research in basic and applied natural sciences.",
+      "email": "vinod.pk@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Computational Systems Biology",
+        "Non-linear dynamics",
+        "Network Biology",
+        "Systems Pharmacology"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/vinoo-alluri/",
+      "name": "Vinoo Alluri",
+      "title": "Assistant Professor",
+      "department": "Cognitive Science (CogSci) studies how we perceive, act, and reason about and form beliefs about our environment.",
+      "email": "vinoo.alluri@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Cognitive Science",
+        "Neuroimaging",
+        "Music Information Retrieval",
+        "Music Cognition",
+        "Music Therapy"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/vishnu-sreekumar/",
+      "name": "Vishnu Sreekumar",
+      "title": "Assistant Professor",
+      "department": "Cognitive Science (CogSci) studies how we perceive, act, and reason about and form beliefs about our environment.",
+      "email": "vishnu.sreekumar@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Cognitive neuroscience",
+        "memory and learning",
+        "dynamical systems"
+      ],
+      "qualifications": [
+        "ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/viswanath-k/",
+      "name": "Viswanath K",
+      "title": "Professor",
+      "department": "Software Engineering Research Center (SERC) focuses on systematic, disciplined, quantifiable approach to the development, operation, and maintenance of quality software, and the study of these approac",
+      "email": "k.vishwanath@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Mathematical computer science",
+        "pedagogical issues"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ma",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/yalla-veera-prakash/",
+      "name": "Yalla Veera Prakash",
+      "title": "Professor",
+      "department": "Center for Innovation and Entrepreneurship (CIE) facilitates IP management, Technology Commercialization and entrepreneurship development at the institute.\r\n\r\nTechnology Transfer Office (TTO) manages ",
+      "email": "prakash.yalla@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Productising Research and Startup seeding"
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "B.Tech"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    },
+    {
+      "url": "https://www.iiit.ac.in/faculty/zia-abbas/",
+      "name": "Awards & Achievements",
+      "title": "Associate Professor",
+      "department": "Center for VLSI and Embedded Systems Technology (CVEST) builds low cost indigenous technologies through research and development in the areas of VLSI design and Embedded Systems.",
+      "email": "zia.abbas@iiit.ac.in",
+      "phone": "",
+      "research_areas": [
+        "Low power VLSI design",
+        "Statistical variations aware modelling and optimization of CMOS and FinFET circuits",
+        "High yield designs",
+        "Reliability issues in nanoscale CMOS and FinFET circuit circuits",
+        "Current mode circuits."
+      ],
+      "qualifications": [
+        "ma",
+        "ba",
+        "Ph.D"
+      ],
+      "awards": "& Achievements",
+      "bio": "",
+      "office_location": "",
+      "office_phone": ""
+    }
+  ]
+}
